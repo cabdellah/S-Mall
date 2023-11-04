@@ -89,20 +89,6 @@
     "image":"https://raw.githubusercontent.com/cabdellah/slid/main/products/10.jpg",
     "rating":{"rate":2.6,"count":235}
   },
-
-  { 
-    "id":1,
-    "title":"مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "price":99.9,
-    "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "category":"drink",
-    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/1.jpg",
-    "rating":{"rate":4.1,"count":259}
-  },
-
-
-
-
   { 
     "id":11,
     "title":"Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
