@@ -1,32 +1,5 @@
 [
   { 
-    "id":1,
-    "title":"مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "price":99.9,
-    "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "category":"men",
-    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/1.jpg",
-    "rating":{"rate":4.1,"count":259}
-  },
-  { 
-    "id":2,
-    "title":"مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "price":99.9,
-    "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "category":"men",
-    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/2.jpg",
-    "rating":{"rate":4.1,"count":259}
-  },
-  { 
-    "id":3,
-    "title":"مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "price":99.9,
-    "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "category":"men",
-    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/3.jpg",
-    "rating":{"rate":4.1,"count":259}
-  },
-  { 
     "id":11,
     "title":"الجبن والبيض والحليب واللبن والزبدة",
     "price":59.9,
@@ -78,33 +51,6 @@
     "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، الخبز المخبز - أرغفة الساندويتشات، ولفائف العشاء، والتورتيلا، والخبز",
     "category":"electronics",
     "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/23.jpg",
-    "rating":{"rate":4.1,"count":259}
-  },
-  { 
-    "id":31,
-    "title":"الخضار، صلصة السباغيتي، الكاتشب",
-    "price":99.99,
-    "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، الخضار، صلصة السباغيتي، الكاتشب",
-    "category":"women",
-    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/31.jpg",
-    "rating":{"rate":4.1,"count":259}
-  },
-  { 
-    "id":32,
-    "title":"الخضار، صلصة السباغيتي، الكاتشب",
-    "price":99.99,
-    "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، الخضار، صلصة السباغيتي، الكاتشب",
-    "category":"women",
-    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/32.jpg",
-    "rating":{"rate":4.1,"count":259}
-  },
-  { 
-    "id":33,
-    "title":"الخضار، صلصة السباغيتي، الكاتشب",
-    "price":99.99,
-    "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، الخضار، صلصة السباغيتي، الكاتشب",
-    "category":"women",
-    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/33.jpg",
     "rating":{"rate":4.1,"count":259}
   }
 ]
