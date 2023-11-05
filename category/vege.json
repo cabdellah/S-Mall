@@ -2,15 +2,17 @@
   { 
     "id":51,
     "title":"الفواكه والخضروات و كل منتجات المزرعة الطازجة ",
-    "rating":{"rate":4.1,"count":259},
+    "oldpri":0.00,
     "price":49.99,
     "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، الفواكه والخضروات و كل منتجات المزرعة الطازجة ",
     "category":"Vege",
-    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/51.jpg"
+    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/51.jpg",
+    "rating":{"rate":4.1,"count":259}
   },
   { 
     "id":52,
     "title":"الفواكه والخضروات و كل منتجات المزرعة الطازجة ",
+    "oldpri":0.00,
     "price":49.99,
     "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، الفواكه والخضروات و كل منتجات المزرعة الطازجة ",
     "category":"Vege",
@@ -20,6 +22,7 @@
   { 
     "id":53,
     "title":"الفواكه والخضروات و كل منتجات المزرعة الطازجة ",
+    "oldpri":0.00,
     "price":49.99,
     "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، الفواكه والخضروات و كل منتجات المزرعة الطازجة ",
     "category":"Vege",
