@@ -4,7 +4,7 @@
     "title":"مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
     "price":99.9,
     "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "category":"men's clothing",
+    "category":"men",
     "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/1.jpg",
     "rating":{"rate":4.1,"count":259}
   },
@@ -13,7 +13,7 @@
     "title":"مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
     "price":99.9,
     "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "category":"men's clothing",
+    "category":"men",
     "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/2.jpg",
     "rating":{"rate":4.1,"count":259}
   },
@@ -22,7 +22,7 @@
     "title":"مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
     "price":99.9,
     "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "category":"men's clothing",
+    "category":"men",
     "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/3.jpg",
     "rating":{"rate":4.1,"count":259}
   },
@@ -85,7 +85,7 @@
     "title":"الخضار، صلصة السباغيتي، الكاتشب",
     "price":99.99,
     "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، الخضار، صلصة السباغيتي، الكاتشب",
-    "category":"women's clothing",
+    "category":"women",
     "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/31.jpg",
     "rating":{"rate":4.1,"count":259}
   },
@@ -94,7 +94,7 @@
     "title":"الخضار، صلصة السباغيتي، الكاتشب",
     "price":99.99,
     "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، الخضار، صلصة السباغيتي، الكاتشب",
-    "category":"women's clothing",
+    "category":"women",
     "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/32.jpg",
     "rating":{"rate":4.1,"count":259}
   },
@@ -103,7 +103,7 @@
     "title":"الخضار، صلصة السباغيتي، الكاتشب",
     "price":99.99,
     "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، الخضار، صلصة السباغيتي، الكاتشب",
-    "category":"women's clothing",
+    "category":"women",
     "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/33.jpg",
     "rating":{"rate":4.1,"count":259}
   }
