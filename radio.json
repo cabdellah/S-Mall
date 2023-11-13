@@ -1,0 +1,23 @@
+[
+   {
+      "id": 1,
+      "name": "أغاني الشرقي",
+      "title": "جميع أغاني الشرقي",
+      "url": "https://webradio.tda.dz/Coran_64K.mp3",
+      "image": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/coran.png?itok=nPTQCau2"
+   },
+   {
+      "id": 2,
+      "name": "أغاني الشعبي",
+      "title": "جميع أغاني الشعبي",
+      "url": "https://webradio.tda.dz/Internationale_64K.mp3",
+      "image": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-rai-en-rouge.png?itok=fV3CxVEG"
+   },
+   {
+      "id": 3,
+      "name": "أغاني الراي",
+      "title": "جميع أغاني الراي",
+      "url": "https://webradio.tda.dz/Jeunesse_64K.mp3",
+      "image": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/jilfm.png?itok=lZwI56Lg"
+   }
+]
